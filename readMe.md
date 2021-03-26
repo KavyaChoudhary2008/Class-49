@@ -1,0 +1,1 @@
+reactNativeFrameWork->html + javascript
